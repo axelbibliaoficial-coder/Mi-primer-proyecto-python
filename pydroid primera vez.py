@@ -1,5 +1,0 @@
-nombre = input(ˋ  hola, ¿Como te llamas\n')
-print('mucho gusto, {nombre}. Yo soy tu priumer asistente en python.')
-estado = input('¿Como estas hoy?\n')
-print('entiendo que estas{estado}.Me alegra mucho que estemos hablando.')
-print('fue un placer ayudarte.! hasta luego')
